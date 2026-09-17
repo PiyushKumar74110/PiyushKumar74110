@@ -1,10 +1,11 @@
 <div align="center">
 
 # Hi , I'm Piyush Kumar
-
-### Data Scientist | Machine Learning Engineer | Generative AI Enthusiast
+<!--
+### Data Scientist | Machine Learning Learner | Generative AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning;Data+Science;Generative+AI;LLMs+and+RAG;Continuous+Learning" />
+-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-kumar-935017316)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:piyushkumar74110@gmail.com)
